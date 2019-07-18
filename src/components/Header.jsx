@@ -9,10 +9,12 @@ const Header = () => {
     <Timeline
       target={
         <div className="header">
-          <Image
-            src={Logic}
-            alt="Logic"
-          />
+          <div onClick={() => window.location.reload()}>
+            <Image
+              src={Logic}
+              alt="Logic"
+            />
+          </div>
         </div>
       }
       duration={1}
