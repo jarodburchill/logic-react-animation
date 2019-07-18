@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/LogicReactAnimation/static/css/main.1b289498.chunk.css",
+    "main.js": "/LogicReactAnimation/static/js/main.99c82d44.chunk.js",
+    "main.js.map": "/LogicReactAnimation/static/js/main.99c82d44.chunk.js.map",
+    "runtime~main.js": "/LogicReactAnimation/static/js/runtime~main.3626cc76.js",
+    "runtime~main.js.map": "/LogicReactAnimation/static/js/runtime~main.3626cc76.js.map",
+    "static/js/2.44cb7a37.chunk.js": "/LogicReactAnimation/static/js/2.44cb7a37.chunk.js",
+    "static/js/2.44cb7a37.chunk.js.map": "/LogicReactAnimation/static/js/2.44cb7a37.chunk.js.map",
+    "index.html": "/LogicReactAnimation/index.html",
+    "precache-manifest.7b4c0bfa71e560d8a6a410751fadf917.js": "/LogicReactAnimation/precache-manifest.7b4c0bfa71e560d8a6a410751fadf917.js",
+    "service-worker.js": "/LogicReactAnimation/service-worker.js",
+    "static/css/main.1b289498.chunk.css.map": "/LogicReactAnimation/static/css/main.1b289498.chunk.css.map",
+    "static/media/BT.jpg": "/LogicReactAnimation/static/media/BT.145f768a.jpg",
+    "static/media/BT2.jpg": "/LogicReactAnimation/static/media/BT2.8e14bebb.jpg",
+    "static/media/COADM.jpg": "/LogicReactAnimation/static/media/COADM.08806566.jpg",
+    "static/media/Everybody.jpg": "/LogicReactAnimation/static/media/Everybody.4bb50dab.jpg",
+    "static/media/Logic.png": "/LogicReactAnimation/static/media/Logic.216dd822.png",
+    "static/media/TheIncredibleTrueStory.jpg": "/LogicReactAnimation/static/media/TheIncredibleTrueStory.2a4af831.jpg",
+    "static/media/UP.jpg": "/LogicReactAnimation/static/media/UP.272494e0.jpg",
+    "static/media/UPDeluxe.jpg": "/LogicReactAnimation/static/media/UPDeluxe.84b9086b.jpg",
+    "static/media/YSIV.jpg": "/LogicReactAnimation/static/media/YSIV.890b9731.jpg"
+  }
+}
