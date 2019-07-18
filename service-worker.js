@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/LogicReactAnimation/precache-manifest.4b59d6489655b7341dd3b34692565196.js"
+  "/LogicReactAnimation/precache-manifest.47aee0f3c02d05dc360c1ff039b88a38.js"
 );
 
 self.addEventListener('message', (event) => {

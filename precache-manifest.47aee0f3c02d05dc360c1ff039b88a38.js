@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "034bb1062ad4443547044061cd6c5acb",
+    "revision": "2c5982fdcce61d56a99776ef0ed51af0",
     "url": "/LogicReactAnimation/index.html"
   },
   {
-    "revision": "36180bba816643b8e512",
+    "revision": "3b7e4937194452cbeba4",
     "url": "/LogicReactAnimation/static/css/main.461be568.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LogicReactAnimation/static/js/2.44cb7a37.chunk.js"
   },
   {
-    "revision": "36180bba816643b8e512",
-    "url": "/LogicReactAnimation/static/js/main.99c82d44.chunk.js"
+    "revision": "3b7e4937194452cbeba4",
+    "url": "/LogicReactAnimation/static/js/main.120516ac.chunk.js"
   },
   {
     "revision": "a6f7f4d48839fc580403",
