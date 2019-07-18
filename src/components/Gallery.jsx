@@ -45,7 +45,7 @@ const Gallary = () => {
     }
   ]
   return (
-    <div>
+    <div className="gallery">
       {images.map((item, index) => (
         <Image
           key={index}
