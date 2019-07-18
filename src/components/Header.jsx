@@ -8,16 +8,16 @@ const Header = () => {
   return (
     <Timeline
       target={
-        <div>
+        <div className="header">
           <Image
             src={Logic}
             alt="Logic"
           />
         </div>
       }
+      duration={1}
     >
-      <Tween from={{ opacity: 0 }} to={{ opacity: 1, ease: Power2.easeInOut }} />
-      <Tween to={{ x: '50px' }} />
+      <Tween from={{ y: "75%" }} to={{ y: "0%", ease: Power2.easeInOut }} />
     </Timeline>
   );
 }

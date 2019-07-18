@@ -49,6 +49,7 @@ const Gallary = () => {
       {images.map((item, index) => (
         <Image
           key={index}
+          index={index}
           src={item.src}
           alt={item.alt}
         />

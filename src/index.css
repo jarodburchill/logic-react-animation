@@ -5,16 +5,26 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: rgb(173, 123, 75);
 }
 
 .gallery {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
   grid-column-gap: 25px;
-  grid-row-gap: 25px;
+  grid-row-gap: 25px; 
 }
 
 .gallery img {
   width: 100%;
-  
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header img {
+  width: 20em;
 }
