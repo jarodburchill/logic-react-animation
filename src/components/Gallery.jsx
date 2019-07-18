@@ -13,19 +13,19 @@ const Gallary = () => {
   const images = [
     {
       src: UP,
-      alt: "Under Pressure"
+      alt: "UnderPressure"
     },
     {
       src: UPDeluxe,
-      alt: "Under Pressure Deluxe"
+      alt: "UnderPressureDeluxe"
     },
     {
       src: TheIncredibleTrueStory,
-      alt: "The Incredible True Story"
+      alt: "TheIncredibleTrueStory"
     },
     {
       src: BT,
-      alt: "Bobby Tarantino"
+      alt: "BobbyTarantino"
     },
     {
       src: Everybody,
@@ -33,7 +33,7 @@ const Gallary = () => {
     },
     {
       src: BT2,
-      alt: "Bobby Tarantino II"
+      alt: "BobbyTarantinoII"
     },
     {
       src: YSIV,
@@ -41,7 +41,7 @@ const Gallary = () => {
     },
     {
       src: COADM,
-      alt: "Confessions of a Dangerous Mind"
+      alt: "ConfessionsOfADangerousMind"
     }
   ]
   return (
