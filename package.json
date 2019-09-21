@@ -1,6 +1,6 @@
 {
-  "homepage": "https://jarodburchill.github.io/LogicReactAnimation",
-  "name": "logic",
+  "homepage": "https://jarodburchill.github.io/logic-react-animation",
+  "name": "logic-react-animation",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
