@@ -1,2 +1,2 @@
-# LogicReactAnimation
-GitHub Pages: https://jarodburchill.github.io/LogicReactAnimation/
+# Logic React Animation
+GitHub Pages: https://jarodburchill.github.io/logic-react-animation/
